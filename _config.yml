@@ -15,37 +15,36 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
-baseurl: "/end2end"
-# baseurl: ""
+title: Matthieu Grieger
+description: "Seattle Pacific University student, Computer Science major, programmer."
+keywords: "matthieu, grieger, seattle, pacific, university, spu, computer, science, programmer, software, development, engineer"
+url: https://matthieugrieger.com
+baseurl: ""
 
-# google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
-disqus_shortname: "fernandomoreira"
-disqus_site_shortname: "fernandomoreira"
+google_analytics: UA-52810043-2
+repo: http://github.com/matthieugrieger/matthieugrieger.com
+disqus_shortname: "matthieugrieger"
+disqus_site_shortname: "matthieugrieger"
 
 # Author settings
 author:
-  name      : Fernando Moreira
-  job       : Frontend Engineer
-  bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name      : Matthieu Grieger
+  job       : Software Development Engineer
+  bio       : ""
   thumb     : /images/author.jpg
-  email     : nandomoreira.me@gmail.com
-  url       : http://nandomoreira.me
-  github    : http://github.com/nandomoreirame
-  twitter   : http://twitter.com/nandomoreirame
-  facebook  : http://facebook.com/fernando.dev
-  linkedin  : http://linkedin.com/in/nandomoreirame
+  email     : matthieugrieger@gmail.com
+  url       : https://matthieugrieger.com
+  github    : https://github.com/matthieugrieger
+  twitter   : https://twitter.com/matthieugrieger
+  facebook  : https://facebook.com/matthieugrieger
+  linkedin  : https://www.linkedin.com/in/matthieu-grieger-bb043594
 
 # navbar pages
 navbar:
   - slug: about
     title: About
-  # - slug: resume
-  #   title: Resume
+  - slug: resume
+    title: Resume
   # - slug: skills
   #   title: Skills
   - slug: blog
