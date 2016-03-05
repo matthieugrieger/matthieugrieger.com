@@ -1,6 +1,6 @@
 # matthieugrieger.com
 
-This repo contains the source for my personal website which can be found at https://matthieugrieger.com.
+This repo contains the source for my personal website which will eventually be found at https://matthieugrieger.com.
 
 Currently this is a static website created using [Jekyll](https://jekyllrb.com/).
 
