@@ -6,9 +6,9 @@ permalink: /about/
 
 I am a B.S. Computer Science major at [Seattle Pacific University](https://spu.edu). I love programming and learning new technologies.
 
-----
-
 ## Projects
+
+----
 
 #### MumbleDJ
 A [Mumble](https://wiki.mumble.info/wiki/Main_Page) bot that plays audio fetched from YouTube and SoundCloud.
