@@ -4,7 +4,7 @@ title: Matthieu Grieger | About
 permalink: /about/
 ---
 
-Hi! My name is Matthieu Grieger and I am a B.S. Computer Science major at [Seattle Pacific University](https://spu.edu). I love programming and learning new technologies.
+I am a B.S. Computer Science major at [Seattle Pacific University](https://spu.edu). I love programming and learning new technologies.
 
 ----
 
@@ -19,6 +19,7 @@ GitHub: [https://github.com/matthieugrieger/mumbledj](https://github.com/matthie
 
 Activity: September 2014 -- present ([`git log`](https://github.com/matthieugrieger/mumbledj/commits/master))
 
+----
 
 #### DiscordDJ
 A [Discord](https://discordapp.com/) bot that plays audio fetched from YouTube and SoundCloud.
@@ -29,6 +30,7 @@ GitHub: [https://github.com/matthieugrieger/discorddj](https://github.com/matthi
 
 Activity: February 2016 -- present ([`git log`](https://github.com/matthieugrieger/discorddj/commits/master))
 
+----
 
 #### VerseBot
 A [reddit](https://reddit.com) bot that quotes Bible verses when asked to.
