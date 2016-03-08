@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Matthieu Grieger -- About
 permalink: /about/
 ---
 
