@@ -32,6 +32,7 @@ author:
   job       : Computer Science major
   bio       : ""
   thumb     : /images/author.jpg
+  favicon   : /images/favicon.ico
   email     : matthieugrieger@gmail.com
   url       : https://matthieugrieger.com
   github    : https://github.com/matthieugrieger
