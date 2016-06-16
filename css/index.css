@@ -25,7 +25,7 @@ a:hover {
 }
 
 /* Change color of text selection to a dark gray. */
-p::selection, p::-moz-selection {
+p::selection, p::-moz-selection, p::-webkit-selection {
     background: #404040;
 }
 
