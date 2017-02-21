@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {
+    margin: 0 auto;
+    background-image: url("../img/bg.png") !important;
+}
+
+::selection {
+  background: #28292b; /* WebKit/Blink Browsers */
+}
+
+::-moz-selection {
+  background: #28292b; /* Gecko Browsers */
+}
+
+.center {
+    position: fixed;
+    top: 50%;
+    width: 100%;
+    transform: translateY(-50%);
+}
+
+.container {
+    text-align: center;
+    color: white;
+    vertical-align: middle;
+}
+
+.button, a {
+    color: white;
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+
+.button:hover {
+    color:black;
+    background-color: white;
+}
+
+#social-media-row {
+    padding-top: 30px;
+}
+
+#resume-row {
+    padding-top: 40px;
+}
+
+.colorful {
+	background:
+		-webkit-linear-gradient(45deg, hsla(154, 95%, 15%, 1) 0%, hsla(154, 95%, 15%, 0) 70%),
+		-webkit-linear-gradient(315deg, hsla(252, 93%, 20%, 1) 10%, hsla(252, 93%, 20%, 0) 80%),
+		-webkit-linear-gradient(225deg, hsla(166, 99%, 45%, 1) 10%, hsla(166, 99%, 45%, 0) 80%),
+		-webkit-linear-gradient(135deg, hsla(236, 100%, 45%, 1) 100%, hsla(236, 100%, 45%, 0) 70%);
+	background:
+		linear-gradient(45deg, hsla(154, 95%, 15%, 1) 0%, hsla(154, 95%, 15%, 0) 70%),
+		linear-gradient(135deg, hsla(252, 93%, 20%, 1) 10%, hsla(252, 93%, 20%, 0) 80%),
+		linear-gradient(225deg, hsla(166, 99%, 45%, 1) 10%, hsla(166, 99%, 45%, 0) 80%),
+		linear-gradient(315deg, hsla(236, 100%, 45%, 1) 100%, hsla(236, 100%, 45%, 0) 70%);
+}
